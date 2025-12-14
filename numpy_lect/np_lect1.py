@@ -1,5 +1,5 @@
 # Numpy for Data Science _ Full Course _ Sagar Chouksey - YouTube and chai and code too 
-# ✅ 1. Creating a Python List vs NumPy Array:
+# ✅ 1. Creating a Python List vs NumPy Array:  moin
 '''Lists are the most common Python data structure.
 ✔️ Properties
 Ordered (can be indexed)
